@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-fun: personal trainer
+fact: personal trainer
 img: WhoIsYou.png
 alt: image-alt
 project-date: April 2014
