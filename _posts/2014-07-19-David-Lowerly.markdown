@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 Fun Fact: Rapper
 img: WhoIsYou.png
 alt: image-alt
