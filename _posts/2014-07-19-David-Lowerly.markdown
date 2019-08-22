@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 fact: Rapper
-img: WhoIsYou.png
+img: david.jpg
 alt: image-alt
 project-date: April 2014
 name: David Lowerly
