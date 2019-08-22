@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-Fun: Rapper
+fact: Rapper
 img: WhoIsYou.png
 alt: image-alt
 project-date: April 2014
-Name: David Lowerly
-Who: Cofounder and CMO
+name: David Lowerly
+who: Cofounder and CMO
 description: This is where the bio will go
 
 ---
